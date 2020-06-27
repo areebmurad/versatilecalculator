@@ -1,0 +1,128 @@
+body{
+    font-family: sans-serif !important;
+    background-image: linear-gradient(to right, #fdfbfb , #ebedee);
+}
+@media screen and (max-width: 1015px) {
+    .main{
+        margin: 0 auto !important;
+        width: 43% !important;
+        height: 500px !important;
+        
+    }
+  }
+
+  @media screen and (max-width: 1347px) {
+    .main{
+        margin: 0 auto !important;
+        width: 43% !important;
+        height: 500px !important;
+        
+    }
+  }
+
+
+  @media screen and (max-width: 1007px) {
+    .main{
+        margin: 0 auto !important;
+        width: 50% !important;
+        height: 500px !important;
+        
+    }
+  }
+  @media screen and (max-width: 870px) {
+    .main{
+        margin: 0 auto !important;
+        width: 80% !important;
+        height: 50% !important;
+        
+    }
+  }
+  @media screen and (max-width: 550px) {
+    .main{
+        margin: 0 auto !important;
+        width: 90% !important;
+        height: 500px !important;
+        
+    }
+  }
+  @media screen and (max-width: 490px) {
+    .main{
+        margin: 0 auto !important;
+        width: 100% !important;
+        height: 500px !important;
+        
+    }
+  }
+  @media screen and (max-width: 360px) {
+    .main{
+        margin: 0 auto !important;
+        width: 100% !important;
+        height: 500px !important;
+        
+    }
+  }
+
+
+.main{
+    border: 2px solid ;
+    width: 30%;
+    height: 420px !important;
+    margin: auto;
+    margin-top: 100px !important;
+    box-shadow: 5px #f2f2f2;
+    border-radius: 9px !important;
+    background-color: yellow;
+    outline: none;
+}
+
+
+
+
+.inputText{
+    width: 98%;
+    height: 40px !important;
+    border: 2px solid ;
+    border-radius: 20px !important;
+    background-image: linear-gradient( to right ,  #e79d7a, rgb(192, 32, 11));
+    color: rgb(252, 246, 246);
+    font-size: 40px !important;
+    outline: none;
+
+}
+.btn{
+    width: 18% !important;
+    height: 50px !important;
+    margin-top: 8px !important;
+    margin-left: 16px !important;
+    border: 2px solid ;
+    border-radius: 9px !important;
+    background-image: linear-gradient( to right ,   #e79d7a, rgb(192, 32, 11));
+    color:rgb(252, 246, 246);
+    outline: none;
+    font-size: 20px !important;
+}
+
+.btnEqual{
+    font-size: 20px !important;
+    width: 40% !important;
+    height: 50px !important;
+    margin-top: 8px !important;
+    margin-left: 19px !important;
+    border: 2px solid ;
+    border-radius: 9px !important;
+    background-image: linear-gradient( to right ,   #e79d7a, rgb(192, 32, 11));
+    color:rgb(252, 246, 246);
+    outline: none;
+}
+.btn2{
+    width: 18% !important;
+    height: 50px !important;
+    margin-top: 8px !important;
+    margin-left: 16px !important;
+    border: 2px solid ;
+    border-radius: 9px !important;
+    background-image: linear-gradient( to right ,   #e79d7a, rgb(192, 32, 11));
+    color: rgb(252, 246, 246);
+    outline: none;
+    font-size: 20px !important;
+}
